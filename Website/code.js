@@ -1,0 +1,4 @@
+function aanmelden()
+{
+    document.getElementById
+}
