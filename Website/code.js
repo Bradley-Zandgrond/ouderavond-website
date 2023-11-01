@@ -1,4 +1,0 @@
-function aanmelden()
-{
-    document.getElementById
-}
